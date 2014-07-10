@@ -20,5 +20,8 @@ public interface IA2ZListing {
 	public List<SeriesData> getSeriesData(ActionVo actionVo, Session session, Tag conceptTag) throws Exception;
 
 		public List<SeriesData> getSeriesData(ActionVo actionVo, Session session, Tag conceptTag) throws Exception;	public List<SeriesData> getSeriesData(ActionVo actionVo, Session session, Tag conceptTag) throws Exception;
-			public List<SeriesData> getSeriesData(ActionVo actionVo, Session session, Tag conceptTag) throws Exception;
+
+
+public List<SeriesData> getSeriesData(ActionVo actionVo, Session session, Tag conceptTag) throws Exception;
+testsssssssssssss
 }
